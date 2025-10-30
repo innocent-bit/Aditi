@@ -94,13 +94,13 @@ START_IMG_URL = ["https://ibb.co/ZzRzh2gF",
                  "https://ibb.co/ZzRzh2gF"]
     
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://ibb.co/3yDbfyvX"
+    "PING_IMG_URL", "https://ibb.co/S70PyWtW"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/9f1rtb.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/pt2z0j.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/492a3bb2e880d19750b79.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/492a3bb2e880d19750b79.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/hvrgma.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/pt2z0j.jpg"
 SOUNCLOUD_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
 YOUTUBE_IMG_URL = "https://graph.org/file/e8730fdece86a1166f608.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/0bb6f36796d496b4254ff.jpg"
